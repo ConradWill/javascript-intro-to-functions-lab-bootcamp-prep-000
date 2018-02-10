@@ -8,3 +8,6 @@ return string.toUpperCase()
 return string.toLowerCase()
   }
   sayHiToGrandma()
+  var uppercase = "HELLO!"
+ 
+uppercase.toUpperCase() === uppercase // true
